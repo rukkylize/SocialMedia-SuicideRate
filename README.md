@@ -19,5 +19,6 @@ Actionable Recommendations
 4. Platform-Specific Strategies: Develop specific strategies for different social media platforms. For example, leverage Facebook’s wide reach for broad mental health campaigns and address the declining Twitter user base with content that might retain and engage users positively.
 
 DATA SOURCE: KAGGLE
+
 TOOLS USED: POWER BI
 
